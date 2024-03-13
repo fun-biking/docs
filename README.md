@@ -11,3 +11,7 @@
 ## 成员分工  
 陈成 2112190134 <https://github.com/elenderberry> 服务端  
 张黔程 2112190107 <https://github.com/ZQC957> 微信小程序
+
+![image](https://github.com/fun-biking/docs/assets/161600850/8931cd75-0665-4885-8ecc-fa37f8cf3155)
+
+    
